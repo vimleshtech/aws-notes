@@ -1,0 +1,59 @@
+
+Challenge-1 - Spin up EC2 and Infra
+
+About the Challenge
+
+This challenge is to verify your ability to create IaaS resources such as
+◦A managed EC2 Service
+
+◦Create Network(VPC) & Firewall policies (Inbound/Oubound) if required
+◦Ability to create Users, Compartments, Groups (IAM)
+◦Apply Basic Principles of IAM and create access privileges
+
+
+Challenge-2 - Move the public Github Repos to AWS Infra(like ec2) - Developer Cloud Service 
+		https://github.com/vimleshtech/maven_project
+About the Challenge
+
+This challenge is to verify your ability to create a PaaS service like Developer Cloud Service
+◦Ability to import a Github repo
+◦Add teammates to your project and give them read-only access 
+
+
+Challenge-3 - Create Container Pipeline Environment 
+
+About this challenge
+
+This challenge is to verify your ability to use a Cloud Native service like jenkins to
+◦Import Applications
+◦Create Team members with access privileges
+◦Configure Workflows, Pipelines and Steps
+
+
+Challenge-4 - Prepare Cluster for Deployment and Install the Database layer 
+
+About this challenge
+
+This challenge is to verify your ability to
+◦Create ElasticBeans
+◦Deploy a war file to elasticbeans 
+◦Create a SimpleDB/My SQL Databae 
+
+
+Challenge-5 - Deploy the Front End and Backend 
+
+About this Challenge
+
+This challenge is to verify your ability to
+◦Use Jenkins to auto Deploy the application and Cluster Monitoring
+◦Modify the code and Commit Changes to the git and verify if the deployment gets updated on the elasticbeans
+
+
+Challenge-6 - Setup Cluster Monitoring using CloudWatch
+
+About this Challenge
+
+This challenge is to verify your ability to
+◦Show a dashboard along with alerts on Slack whenever a metric crosses threshold 
+
+
